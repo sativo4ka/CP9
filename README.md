@@ -8,7 +8,7 @@
 3. Поймайте OrderProcessingException с фильтром catch (OrderProcessingException ex) when (ex.Message.Contains("цена")), залогируйте и продолжите обработку остальных строк.
 4. В finally выведите сводку: количество обработанных, успешных и пропущенных заказов.
 
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/3c6a0149-48c9-42a8-964d-fe1213285e34" />
+<img width="1917" height="1076" alt="image" src="https://github.com/user-attachments/assets/8be5aa33-4611-4959-be10-0a963f827bea" />
 
 <img width="1090" height="610" alt="image" src="https://github.com/user-attachments/assets/797b27b5-009f-4247-a12f-e98372437564" />
 
